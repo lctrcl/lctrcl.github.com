@@ -21,11 +21,13 @@ Many Russian-speaking people use dictionary passwords, but based on 'reverse tra
 ![this](http://www.thebrainfever.com/images/kb/KB_0024_Russian.png)
 
 So if English-speaking people look on these passwords, they look like gibberish:
+
 - ghbdtn
 - gfhjkm
 - etc.
 
 They are actually Russian words written in 'reverse translit':
+
 - привет
 - пароль
 - и т.д.
@@ -33,6 +35,7 @@ They are actually Russian words written in 'reverse translit':
 Current tools doesn't have ability to find this kind of passwords, so I wrote a little Python tool over a weekend to accomplish this.
 
 It's called "Custom Russian WordList Generator" and it does basically three things:
+
 - downloads and cleans up Russian dictionary (based on ruscorpora and opencorpora)
 - generates custom dictionaries in 'reverse translit'
 - analyzes passwords leaks (not provided) and finds frequency of such passwords
