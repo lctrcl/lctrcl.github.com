@@ -98,7 +98,7 @@ Generate statistics:
 For analysis I took mail.ru, yandex.ru, gmail and sprashivai dumps.
 
 Overall it was 26212007 passwords in these dump.
-There was 337767 passwords based on 'reverse translit' principle so it was ~1,28% of all the passwords combined.
+There was 337767 passwords based on 'reverse translit', so it was ~1,28% of all the passwords combined.
 
 Top-20 passwords are (count - password - Russian word - English word translated):
 
@@ -127,7 +127,7 @@ As you see, nothing surprising - 'password' is the top one.
 A lot of users use their first names as the password. Password 'k.,jdm' can be interpreted as a word 'love' or female name 'Lyubov'.
 
 The password 'спрашивай' is the name of service (sprashivai.ru) was the most popular of all services - 1634. For example, password 'zyltrc' (yandex) was used 80 times, 'zyltrche' (yandex.ru) - 3, 'vtqkhe' (mail.ru) - 4
-Surprisingly, password 'drjynfrnt' (vkontakte), popular Russian social service, was used 766 times.
+Surprisingly, password 'drjynfrnt' (vkontakte), popular Russian social service, was used 766 times but was not in the scope of leaked passwords.
 
 Let's take Russian names dictionary and look at top-20 names:
 
@@ -176,6 +176,14 @@ Top-20 locations (cities,countries):
     58      fdcnhfkbz       австралия         (Australia)
 
 Surprisingly, Madagascar is Top-3 password (I have no explanation to this).
+
 Password 'vfhctkm' (Marseille) can also be a male name.
+
 Password 'fynfyfyfhbde' (Antananarivu) is surprising, but it's more not because of popularity of place itself, but due to song "Antananarivu" by Russian pop-star Zemfira.
+
 Passwords of 'manchester' and 'barcelona' are also traditionally considered football-related due to overall popularity of MU and Barcelona FC.
+
+# misc
+
+Twitter: @lctrcl
+Github: github.com/lctrcl
