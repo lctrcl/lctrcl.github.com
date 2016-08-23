@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I am infosec engineer and OSCP student.
+.
 
 ### Contact me
 
-[lctrclmusic@gmail.com](mailto:lctrclmusic@gmail.com)
+- [lctrcl@icloud.com](mailto:lctrcl@icloud.com)
+- [@lctrcl](https://twitter.com/lctrcl)
